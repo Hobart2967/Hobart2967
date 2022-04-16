@@ -1,4 +1,4 @@
-# Welcome to Hobarts little Coding Campfire!
+# Welcome to Hobart's little Coding Campfire!
 
 I am a full-stack senior software engineer located in Cologne. Whilst living a great passion for frontend development, I really love to implement backends filling their counterpart with data and business processes.
 
