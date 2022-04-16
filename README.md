@@ -1,5 +1,4 @@
 # Welcome to Hobarts little Coding Campfire!
-![https://avatars.githubusercontent.com/u/1580879?s=128&v=4](https://avatars.githubusercontent.com/u/1580879?s=128&v=4)
 
 I am a full-stack senior software engineer located in Cologne. Whilst living a great passion for frontend development, I really love to implement backends filling their counterpart with data and business processes.
 
