@@ -1,5 +1,7 @@
 # Welcome to Hobart's little Coding Campfire!
 
+![Hobart's GitHub stats](https://images.wallpaperscraft.com/image/single/bonfire_fire_flame_152658_2560x1080.jpg)
+
 I am a full-stack senior software engineer located in Cologne. Whilst living a great passion for frontend development, I really love to implement backends filling their counterpart with data and business processes.
 
 Also, my ability to develop databases and the surrounding infrastructure make me feel like I have developed something complete when finishing a product.
