@@ -1,5 +1,9 @@
 # 👋 Welcome to Hobart's little Coding Campfire! 👋
 
+[![Hobart's GitHub stats](https://github-readme-stats.vercel.app/api?username=hobart2967&show_icons=true&theme=radical)](https://github.com/hobart2967)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Hobart2967&theme=dark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
+
 ![Hobart's GitHub stats](https://images.wallpaperscraft.com/image/single/bonfire_fire_flame_152658_2560x1080.jpg)
 
 ❤️ I am a full-stack senior software engineer located in Cologne. Whilst living a great passion for frontend development, I really love to implement backends filling their counterpart with data and business processes.
@@ -17,5 +21,4 @@ Today, I am working for [Trusted Shops](https://github.com/trustedshops), respon
 
 ## Stats
 
-[![Hobart's GitHub stats](https://github-readme-stats.vercel.app/api?username=hobart2967&show_icons=true&theme=radical)](https://github.com/hobart2967)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Hobart2967&theme=dark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
+
