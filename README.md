@@ -1,8 +1,8 @@
 # 👋 Welcome to Hobart's little Coding Campfire! 👋
 
-[![Hobart's GitHub stats](https://github-readme-stats.vercel.app/api?username=hobart2967&show_icons=true&theme=radical)](https://github.com/hobart2967)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Hobart2967&theme=dark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
+
+
 
 ![Hobart's GitHub stats](https://images.wallpaperscraft.com/image/single/bonfire_fire_flame_152658_2560x1080.jpg)
 
@@ -22,3 +22,8 @@ Today, I am working for [Trusted Shops](https://github.com/trustedshops), respon
 ## Stats
 
 
+<div style="text-align: center">
+  <center>
+<img src="https://github-readme-stats.vercel.app/api?username=hobart2967&show_icons=true&theme=dark&border_radius=0&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Hobart2967&theme=dark&hide_border=true&border_radius=0" /></center>
+  </div>
