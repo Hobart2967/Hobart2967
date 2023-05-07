@@ -15,6 +15,14 @@ Today, I am working for [Trusted Shops](https://github.com/trustedshops), respon
 - [Visit me on LinkedIn as well!](https://www.linkedin.com/in/marco-klein-2781ab31/)
 - [Check out my coding tips for twitch followers :)](https://github.com/Hobart2967/hobart4711)
 
+## Stats
+
+<div style="text-align: center">
+  <center>
+    <img src="https://github-readme-stats.vercel.app/api?username=hobart2967&show_icons=true&hide_border=true&border_radius=0&theme=dark&card_width=398" />
+    <img src="https://streak-stats.demolab.com?user=Hobart2967&theme=dark&card_width=400&hide_border=true&border_radius=0" /></center>
+  </div>
+
 ## Repo Showcase
 <div style="display: flex">
   <a href="https://github.com/Hobart2967/GoDough"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hobart2967&repo=GoDough&theme=github_dark_dimmed&card_width=330"></a>
@@ -28,11 +36,3 @@ Today, I am working for [Trusted Shops](https://github.com/trustedshops), respon
   <a href="https://github.com/codewyre/rules"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codewyre&repo=rules&theme=github_dark_dimmed&card_width=330"></a>
 <a href="https://github.com/Hobart2967/shell-setup"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Codewyre&repo=skwid&theme=github_dark_dimmed&card_width=330"></a>  
 </div>
-
-## Stats
-
-<div style="text-align: center">
-  <center>
-    <img src="https://github-readme-stats.vercel.app/api?username=hobart2967&show_icons=true&hide_border=true&border_radius=0&theme=dark&card_width=398" />
-    <img src="https://streak-stats.demolab.com?user=Hobart2967&theme=dark&card_width=400&hide_border=true&border_radius=0" /></center>
-  </div>
