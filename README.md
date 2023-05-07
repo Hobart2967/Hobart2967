@@ -17,16 +17,16 @@ Today, I am working for [Trusted Shops](https://github.com/trustedshops), respon
 
 ## Repo Showcase
 <div style="display: flex">
-  ![https://github.com/Hobart2967/GoDough](https://github-readme-stats.vercel.app/api/pin/?username=Hobart2967&repo=GoDough&theme=github_dark_dimmed)
-  ![https://github.com/Codewyre/Skwid](https://github-readme-stats.vercel.app/api/pin/?username=Codewyre&repo=skwid&theme=github_dark_dimmed)
-  ![https://github.com/Hobart2967/strawberry-py](https://github-readme-stats.vercel.app/api/pin/?username=Hobart2967&repo=strawberry-py&theme=github_dark_dimmed)
-  ![https://github.com/Hobart2967/aws-sso-console](https://github-readme-stats.vercel.app/api/pin/?username=Hobart2967&repo=aws-sso-console&theme=github_dark_dimmed)
-  ![https://github.com/codewyre/taskify](https://github-readme-stats.vercel.app/api/pin/?username=codewyre&repo=taskify&theme=github_dark_dimmed)
-  ![https://github.com/Hobart2967/Advent-of-Code-2022](https://github-readme-stats.vercel.app/api/pin/?username=Hobart2967&repo=Advent-of-Code-2022&theme=github_dark_dimmed)
-  ![https://github.com/Hobart2967/vscode-ya-power-mode](https://github-readme-stats.vercel.app/api/pin/?username=Hobart2967&repo=vscode-ya-power-mode&theme=github_dark_dimmed)
-  ![https://github.com/Hobart2967/ansible-backup-server](https://github-readme-stats.vercel.app/api/pin/?username=Hobart2967&repo=ansible-backup-server&theme=github_dark_dimmed)
-  ![https://github.com/codewyre/rules](https://github-readme-stats.vercel.app/api/pin/?username=codewyre&repo=rules&theme=github_dark_dimmed)
-![https://github.com/Hobart2967/shell-setup](https://github-readme-stats.vercel.app/api/pin/?username=Codewyre&repo=skwid&theme=github_dark_dimmed)  
+  <a href="https://github.com/Hobart2967/GoDough"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hobart2967&repo=GoDough&theme=github_dark_dimmed&card_width=330"></a>
+  <a href="https://github.com/Hobart2967/aws-sso-console"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hobart2967&repo=aws-sso-console&theme=github_dark_dimmed&card_width=330"></a>
+  <a href="https://github.com/Hobart2967/strawberry-py"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hobart2967&repo=strawberry-py&theme=github_dark_dimmed&card_width=330"></a>
+  <a href="https://github.com/Codewyre/Skwid"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Codewyre&repo=skwid&theme=github_dark_dimmed&card_width=330"></a>
+  <a href="https://github.com/codewyre/taskify"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codewyre&repo=taskify&theme=github_dark_dimmed&card_width=330"></a>
+  <a href="https://github.com/Hobart2967/Advent-of-Code-2022"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hobart2967&repo=Advent-of-Code-2022&theme=github_dark_dimmed&card_width=330"></a>
+  <a href="https://github.com/Hobart2967/vscode-ya-power-mode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hobart2967&repo=vscode-ya-power-mode&theme=github_dark_dimmed&card_width=330"></a>
+  <a href="https://github.com/Hobart2967/ansible-backup-server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hobart2967&repo=ansible-backup-server&theme=github_dark_dimmed&card_width=330"></a>
+  <a href="https://github.com/codewyre/rules"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codewyre&repo=rules&theme=github_dark_dimmed&card_width=330"></a>
+<a href="https://github.com/Hobart2967/shell-setup"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Codewyre&repo=skwid&theme=github_dark_dimmed&card_width=330"></a>  
 </div>
 
 ## Stats
