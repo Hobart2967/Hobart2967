@@ -53,7 +53,7 @@ To only mention some of the projects, I have been working on:
   <a href="https://github.com/Hobart2967/GoDough"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hobart2967&repo=GoDough&theme=github_dark_dimmed&card_width=330"></a>
   <a href="https://github.com/Hobart2967/aws-sso-console"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hobart2967&repo=aws-sso-console&theme=github_dark_dimmed&card_width=330"></a>
   <a href="https://github.com/Hobart2967/strawberry-py"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hobart2967&repo=strawberry-py&theme=github_dark_dimmed&card_width=330"></a>
-  <a href="https://github.com/Codewyre/Skwid"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Codewyre&repo=skwid&theme=github_dark_dimmed&card_width=330"></a>
+  <a href="https://github.com/Codewyre/Skwid"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Codewyre&repo=skwid&theme=github_dark_dimmed"></a>
   <a href="https://github.com/codewyre/taskify"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codewyre&repo=taskify&theme=github_dark_dimmed&card_width=330"></a>
   <a href="https://github.com/Hobart2967/shell-setup"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hobart2967&repo=shell-setup&theme=github_dark_dimmed&card_width=330"></a>
   <a href="https://github.com/Hobart2967/vscode-ya-power-mode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hobart2967&repo=vscode-ya-power-mode&theme=github_dark_dimmed&card_width=330"></a>
