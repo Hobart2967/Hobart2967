@@ -15,6 +15,31 @@ Today, I am working for [Trusted Shops](https://github.com/trustedshops), respon
 - [Visit me on LinkedIn as well!](https://www.linkedin.com/in/marco-klein-2781ab31/)
 - [Check out my coding tips for twitch followers :)](https://github.com/Hobart2967/hobart4711)
 
+Polywork: https://www.polywork.com/hobart2967
+
+Xing: https://www.xing.com/profile/Marco_Klein51
+
+GitHub: https://github.com/Hobart2967
+
+## My experience of the past years
+
+In the past years, I have been working on several things and target devices. This includes hybrid and native mobile apps, web apps, hybrid native desktop apps, rich clients, websites and many more things.
+
+Backend-wise I have created different systems with NodeJS, C# and a little Java. This all includes a bunch of REST-Apis, Database Backends and even Database Driven Business Logic.
+
+I have seen and worked on different infrastructural approaches, such as on-premise, self-hosted SaaS or even AWS Cloudbased systems!
+
+To only mention some of the projects, I have been working on:
+
+- Integration of two fully independent but complementing systems to build an end-to-end use case. Implemented using ASP.NET Web APIs
+- Build a user backend for self-servicing using Angular
+- Redesign & Develop a SEO aware website using Angular Universal
+- Build a reusable micro-frontend platform offering all common services and features to make other teams keep focussing on their business product. Created in a technology agnostic way, utilizing AWS, NPM, Angular, React, Preact and many more.
+- Create a reusable control library, implementing the companys CI/CD. Built using Web Components.
+- Implement a Mobile Hybrid App using Capacitor/Cordova, offering push notifications and native device integration
+- Build REST APIs based on Node.js, hosted in Amazon Web Services using Api Gateway, DynamoDB, Lambda and more
+- Design and implement a modular documentation platform for providing different documentation artifacts like OpenAPI Specs, Markdown Freetext or HTML pages. All done using Amazon Web Services like S3, Lambdas, Cloudfront and more.
+
 ## Stats
 
 <div style="text-align: center">
