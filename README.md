@@ -59,4 +59,5 @@ To only mention some of the projects, I have been working on:
   <a href="https://github.com/Hobart2967/vscode-ya-power-mode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hobart2967&repo=vscode-ya-power-mode&theme=github_dark_dimmed&card_width=330"></a>
   <a href="https://github.com/Hobart2967/ansible-backup-server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hobart2967&repo=ansible-backup-server&theme=github_dark_dimmed&card_width=330"></a>
   <a href="https://github.com/codewyre/rules"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codewyre&repo=rules&theme=github_dark_dimmed&card_width=330"></a>
+  <a href="https://github.com/Hobart2967/shell-setup"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hobart2967&repo=shell-setup&theme=github_dark_dimmed&card_width=330"></a>
 </div>
