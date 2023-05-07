@@ -33,6 +33,6 @@ Today, I am working for [Trusted Shops](https://github.com/trustedshops), respon
 
 <div style="text-align: center">
   <center>
-    <img src="https://github-readme-stats.vercel.app/api?username=hobart2967&show_icons=true&theme=github_dark_dimmed&card_width=398" />
-    <img src="https://streak-stats.demolab.com?user=Hobart2967&theme=github_dark_dimmed&card_width=422" /></center>
+    <img src="https://github-readme-stats.vercel.app/api?username=hobart2967&show_icons=true&hide_border=true&border_radius=0&theme=dark&card_width=398" />
+    <img src="https://streak-stats.demolab.com?user=Hobart2967&theme=dark&card_width=422&hide_border=true&border_radius=0" /></center>
   </div>
