@@ -16,9 +16,7 @@ Today, I am working for [Trusted Shops](https://github.com/trustedshops), respon
 - [Check out my coding tips for twitch followers :)](https://github.com/Hobart2967/hobart4711)
 
 ## Repo Showcase
-
 <div style="display: flex">
-  
   ![https://github.com/Hobart2967/GoDough](https://github-readme-stats.vercel.app/api/pin/?username=Hobart2967&repo=GoDough&theme=github_dark_dimmed)
   ![https://github.com/Codewyre/Skwid](https://github-readme-stats.vercel.app/api/pin/?username=Codewyre&repo=skwid&theme=github_dark_dimmed)
   ![https://github.com/Hobart2967/strawberry-py](https://github-readme-stats.vercel.app/api/pin/?username=Hobart2967&repo=strawberry-py&theme=github_dark_dimmed)
@@ -30,7 +28,6 @@ Today, I am working for [Trusted Shops](https://github.com/trustedshops), respon
   ![https://github.com/codewyre/rules](https://github-readme-stats.vercel.app/api/pin/?username=codewyre&repo=rules&theme=github_dark_dimmed)
 ![https://github.com/Hobart2967/shell-setup](https://github-readme-stats.vercel.app/api/pin/?username=Codewyre&repo=skwid&theme=github_dark_dimmed)  
 </div>
-
 
 ## Stats
 
