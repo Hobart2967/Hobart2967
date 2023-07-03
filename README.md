@@ -10,7 +10,7 @@ In my free time, I fulfil my passion to coding, cars, music and video games.
 
 I would describe myself as a team-player, being in love with hand-in-hand work. For example, developing against other developers' machines is really fun to me!
 
-Today, I am working for [Trusted Shops](https://github.com/trustedshops), responsible for **_building a pluggable micro-frontend platform_** and reusable libraries together with my current team.
+Today, I am working for [Belonio](https://github.com/belonio) as a full stack developer, who is providing a simple, secure and attractive software solution for providing employee benefits in terms of salary extras.
 
 - [Visit me on LinkedIn as well!](https://www.linkedin.com/in/marco-klein-2781ab31/)
 - [Check out my coding tips for twitch followers :)](https://github.com/Hobart2967/hobart4711)
