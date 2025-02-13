@@ -25,7 +25,7 @@ GitHub: https://github.com/Hobart2967
 
 In the past years, I have been working on several things and target devices. This includes hybrid and native mobile apps, web apps, hybrid native desktop apps, rich clients, websites and many more things.
 
-Backend-wise I have created different systems with NodeJS, C# and a little Java. This all includes a bunch of REST-Apis, Database Backends and even Database Driven Business Logic.
+Backend-wise I have created different systems with NodeJS, C# and a Java. This all includes a bunch of REST-Apis, Database Backends and even Database Driven Business Logic.
 
 I have seen and worked on different infrastructural approaches, such as on-premise, self-hosted SaaS or even AWS Cloudbased systems!
 
